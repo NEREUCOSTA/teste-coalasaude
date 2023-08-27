@@ -3,9 +3,13 @@
 O que é necessário para iniciar um projeto
 
 Node.js, 
+
 npm (gerenciador de pacotes JavaScript);
+
 Já vem com o Node.js;
+
 Cypress;
+
 Editor de texto ou IDE;
 
 instalação
